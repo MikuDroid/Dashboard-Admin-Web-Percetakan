@@ -6,9 +6,10 @@
 
 # How To Use
 1. Make sure you installed XAMPP already
-2. Open mysql admin page and import the `percetakan.sql` file
-3. Change the username and password to match your desire
-4. Profit
+2. Download and extract / clone this repository, put it under htdocs folder
+3. Open mysql admin page and import the `percetakan.sql` file
+4. Change the username and password to match your desire
+5. Profit
 
 # Known issues
  1. `Sign up` button doesn't do anything, add / remove / change user and admin from mysql admin page.
